@@ -1,0 +1,53 @@
+/* Navbar */
+.navbar-brand {
+    padding-top: 80;
+    font-family: Poppins;
+    font-size: 16;
+
+}
+
+/* header */
+.putih {
+    color: white;
+}
+
+/* utilityb  */
+.latar {
+    background-color: #0B63dc;
+}
+
+.latar2 {
+    background-color: #2376eb;
+}
+
+.btn-putih {
+    margin-bottom: 20px;
+    color: #0B63dc;
+    font-style: bold;
+    background-color: white;
+}
+
+.foto {
+    height: 20 px;
+}
+
+/* Desktop Version */
+@media (min-width: 992px) {
+    .nav-link {
+        font-size:15px;
+        text-transform: uppercase;
+        font-family: Poppins;
+        margin-right:25px;
+    }
+
+    .nav-link:hover::after {
+        content: '';
+        display: block;
+        border-bottom: 3px solid #ffffff;
+        width: 20px;
+        margin: auto;
+        padding-bottom: 3px;
+        margin-bottom: -10px ;
+
+    }
+}
