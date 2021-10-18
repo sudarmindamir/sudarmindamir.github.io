@@ -11,20 +11,33 @@
     color: white;
 }
 
-/* utilityb  */
+/* utility */
+
+
 .latar {
     background-color: #0B63dc;
 }
 
 .latar2 {
-    background-color: #2376eb;
+    background-color:#2376EB;
 }
 
 .btn-putih {
     margin-bottom: 20px;
-    color: #0B63dc;
+    color: #2376EB;
     font-style: bold;
     background-color: white;
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;font-weight: bold ;
+}
+
+.btn-putih:hover {
+    margin-bottom: 20px;
+    color: #2376EB;
+    font-style: bold;
+    background-color: rgb(233, 233, 233);
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;font-weight: bold;
 }
 
 .foto {
