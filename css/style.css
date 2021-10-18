@@ -16,11 +16,16 @@
 .header h1 {
     font-weight: bold;
 }
-
+ 
 .header p{
     font-weight: medium;
     color: #c1dcff;
    
+}
+
+/* info apps */
+.info-apps {
+    
 }
 
 
@@ -86,3 +91,4 @@
 
 
 }
+
