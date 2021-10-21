@@ -20,6 +20,8 @@
 .header p{
     font-weight: medium;
     color: #c1dcff;
+    font-size: 20px;
+
    
 }
 
@@ -39,23 +41,55 @@
 }
 
 /* skills */
-.kolom {
-    background-color:green;
+.skill-section {
+margin-top: 160px;
+margin-bottom: 160px;
+}
+
+.skills h1 {
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+color: #697EE9;
+}
+
+.skills p {
+    font-weight: medium;
+    color: #B9B9B9;
+    margin-top: 20px;
+    font-size: 20px;
+
+}
+
+.kolom-skills {
+    background-color:rgb(243, 243, 243);
     border-radius: 10px;
 }
 .baris {
     background-color: #0564e9;
     border-radius: 5px;
+    font-weight: medium;
+    color: #B9B9B9;
+    margin-top: 20px;
+    font-size: 20px;
 }
 
 .baris2 {
     background-color: #e905c3;
     border-radius: 5px;
+    font-weight: medium;
+    color: #B9B9B9;
+    margin-top: 20px;
+    font-size: 20px;
 }
 
 .baris3 {
     background-color: #e96005;
     border-radius: 10px;
+    font-weight: medium;
+    color: #B9B9B9;
+    margin-top: 20px;
+    font-size: 20px;
 }
 
 /* utility */
@@ -81,6 +115,8 @@
     
 }
 
+
+
 .btn-putih:hover {
     font-family: Poppins;
     margin-bottom: 20px;
@@ -89,6 +125,30 @@
     background-color: rgb(219, 229, 255);
     padding: 15px 40px 15px 40px;
     font-size: 16px;font-weight: bold;
+}
+
+.btn-biru {
+    border-radius: 10px;
+    font-family: Poppins;
+    margin-bottom: 20px;
+    color: #ffffff;
+    font-style: bold;
+    background-color: #2376EB ;
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;font-weight: bold ;
+    
+}
+
+.btn-biru:hover{
+    border-radius: 10px;
+    font-family: Poppins;
+    margin-bottom: 20px;
+    color: #ffffff;
+    font-style: bold;
+    background-color: #166adf ;
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;font-weight: bold ;
+    
 }
 
 .foto {
