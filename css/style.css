@@ -50,7 +50,7 @@ margin-bottom: 160px;
 font-family: Poppins;
 font-style: normal;
 font-weight: bold;
-color: #697EE9;
+color: #3682ED;
 }
 
 .skills p {
@@ -61,12 +61,17 @@ color: #697EE9;
 
 }
 
+.kolom-skills p {
+    color: #88bbff;
+  
+}
+
 .kolom-skills {
-    background-color:rgb(243, 243, 243);
+    background-color:#3682ED;
     border-radius: 10px;
 }
 .baris {
-    background-color: #0564e9;
+    background-color: #ffffff;
     border-radius: 5px;
     font-weight: medium;
     color: #B9B9B9;
@@ -75,7 +80,7 @@ color: #697EE9;
 }
 
 .baris2 {
-    background-color: #e905c3;
+    background-color: #ffffff;
     border-radius: 5px;
     font-weight: medium;
     color: #B9B9B9;
@@ -84,7 +89,7 @@ color: #697EE9;
 }
 
 .baris3 {
-    background-color: #e96005;
+    background-color: #ffffff;
     border-radius: 10px;
     font-weight: medium;
     color: #B9B9B9;
