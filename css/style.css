@@ -24,10 +24,39 @@
 }
 
 /* info apps */
-.info-apps {
+.apps {
+    background-color: rgb(243, 243, 243);
     
 }
 
+.panel-apps p {
+   
+        font-family: Poppins;
+        font-weight: medium;
+        color: rgb(114, 114, 114);
+
+    
+}
+
+/* skills */
+.kolom {
+    background-color:green;
+    border-radius: 10px;
+}
+.baris {
+    background-color: #0564e9;
+    border-radius: 5px;
+}
+
+.baris2 {
+    background-color: #e905c3;
+    border-radius: 5px;
+}
+
+.baris3 {
+    background-color: #e96005;
+    border-radius: 10px;
+}
 
 /* utility */
 
