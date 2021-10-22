@@ -97,6 +97,30 @@ color: #3682ED;
     font-size: 20px;
 }
 
+/* portfolio */
+.baris-portfolio a {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    color: #8a8a8a;
+}
+
+.baris-portfolio a:hover {
+    background-color: gre;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    color: #727272;
+    text-decoration:none
+}
+
+.baris-portfolio .gambar {
+    border-radius: 10px;
+}
+
+
+
+
 /* utility */
 
 
